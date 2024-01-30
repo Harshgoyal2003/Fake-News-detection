@@ -4,5 +4,6 @@ What is "Fake News"? “Fake news” is a term that has come to mean different t
 
 About Dataset This data set consists of 40000 fake and real news. Our goal is to train our model to accurately predict whether a particular piece of news is real or fake. Fake and real news data are given in two separate data sets, with each data set consisting of approximately 20000 articles.
 <br>
-![Uploading 2-Figure1-1.png…]()
+![2-Figure1-1](https://github.com/Harshgoyal2003/Fake-News-detection/assets/92380371/2ef4dc91-feb8-4339-b13e-ccc7839c5bd6)
+
 
